@@ -1,0 +1,13 @@
+{
+    "name": "dipsycat/package1",
+    "description": "Test package 1",
+    "authors": [
+        {
+            "name": "DevilWildMax",
+            "email": "maksapr13@rambler.ru"
+        }
+    ],
+    "require": {
+		"lusitanian/oauth": "~0.3"
+	}
+}
